@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.custom.liquidglass.glyphs">
+    package="com.custom.liquidglass.original">
 
     <application
         android:label="@string/app_name"
-        android:icon="@drawable/ic_youtube"
+        android:icon="@drawable/glass_frame"
         android:hasCode="false">
 
         <activity

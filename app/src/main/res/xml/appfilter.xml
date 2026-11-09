@@ -1,46 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Universal fallback for any unthemed app -->
     <iconback img1="iconback" />
     <iconupon img1="iconupon" />
-    <scale factor="0.62" />
-
-    <!-- Glyph-Only Liquid Glass Icons (No white/black background circles!) -->
-    <!-- YouTube -->
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="ic_youtube" />
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="ic_youtube" />
-
-    <!-- Google Play Store -->
-    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_playstore" />
-
-    <!-- Google Chrome -->
-    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="ic_chrome" />
-
-    <!-- Google Maps -->
-    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="ic_maps" />
-
-    <!-- WhatsApp -->
-    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp" />
-
-    <!-- Instagram -->
-    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="ic_instagram" />
-
-    <!-- Spotify -->
-    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="ic_spotify" />
-
-    <!-- X (Twitter) -->
-    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="ic_x" />
-
-    <!-- Pinterest -->
-    <item component="ComponentInfo{com.pinterest/com.pinterest.activity.task.activity.MainActivity}" drawable="ic_pinterest" />
-
-    <!-- Brave Browser -->
-    <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="ic_brave" />
-
-    <!-- Threads -->
-    <item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="ic_threads" />
-
-    <!-- Google/ColorOS Phone Dialer -->
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_phone" />
-    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="ic_phone" />
+    <scale factor="0.65" />
 </resources>
