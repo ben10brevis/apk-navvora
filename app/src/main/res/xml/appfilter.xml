@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <iconback img1="iconback" />
+    <iconupon img1="iconupon" />
+    <scale factor="0.64" />
+</resources>
